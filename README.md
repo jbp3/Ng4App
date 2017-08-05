@@ -1,4 +1,5 @@
-# Ng4App - Angular 4 Dotnet core application seed.
+# Ng4App - Angular 4 Dotnet Core
+<p>Application seed project.</p>
 <ul>
 <li>Angular 1.2.7</li>
 <li>Dotnet core 1.2</li>
